@@ -1,0 +1,55 @@
+Install Python:
+1. Browse: python.org
+2. click on latest Python version
+3. On Windows Checkbox: Add Python to Path
+
+Install Course Environment:
+python -m venv d:\PythonCourse
+cd PythonCourse\Scripts\
+activate.bat
+
+Install packages:
+pip install numpy pandas jupyterlab
+
+Install environment kernel:
+python -m ipykernel install --user --name PythonCourse --display-name "PythonCourse"
+
+
+Week 1:
+installation
+virtual environments
+jupyter lab
+
+Week 2:
+variable types
+casting variable types
+string methods - upper, len, count, index
+arithmetic operations
+logic operations, if / else
+
+input, print functions
+
+for loop, while loop, break, continue
+range, iterables, yield
+
+Week 3:
+data structures
+list, tuple, set, dict, immutable variables
+
+Week 4:
+functions
+args, kwargs, default values
+type annotations
+
+pytest
+assert
+try / except
+
+Week 5:
+objects and classes
+inheritance
+methods
+
+Week 6, 7: Numpy
+
+Week 8, 9, 10: Pandas
