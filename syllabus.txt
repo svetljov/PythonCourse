@@ -19,6 +19,7 @@ Week 1:
 installation
 virtual environments
 jupyter lab
+stackoverflow
 
 Week 2:
 variable types
@@ -34,7 +35,7 @@ range, iterables, yield
 
 Week 3:
 data structures
-list, tuple, set, dict, immutable variables
+list, set, dict, tuple, immutable variables, defaultdict, Counter, comprehensions
 
 Week 4:
 functions
@@ -43,12 +44,13 @@ type annotations
 
 pytest
 assert
-try / except
+exception handling: try / except
 
 Week 5:
 objects and classes
 inheritance
 methods
+getattr(), setattr()
 
 Week 6, 7: Numpy
 
